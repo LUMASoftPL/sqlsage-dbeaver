@@ -2,6 +2,8 @@
 
 **SqlSage for DBeaver is an AI SQL assistant you install inside DBeaver 26.x** (a native OSGi plugin, via a p2 update site) — ask your database in plain English and get safe, schema-aware SQL on your live connection, signed in with your own **Claude** or **Codex (OpenAI / ChatGPT)** account (no API key). It runs as part of DBeaver on your machine; it is **not** a web app or an online SQL editor.
 
+![SqlSage chat panel inside DBeaver — explaining a determinism bug and generating a corrected query](assets/screenshot.png)
+
 ## Why it's different
 
 - **Keyless.** Runs on the Claude or Codex/ChatGPT account you already pay for (via the `claude` or `codex` CLI) — no separate API key, no metered second AI bill. Multi-provider: Anthropic **Claude** *and* OpenAI **Codex / ChatGPT**, switchable in the chat panel.
