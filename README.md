@@ -19,7 +19,7 @@
 https://sqlsagedbeaver.lumasoft.pl/updatesite
 ```
 
-Select **SqlSage for DBeaver → Next → accept → Finish**, then restart. Full guide: **https://sqlsagedbeaver.lumasoft.pl/docs**
+Select **SqlSage for DBeaver → Next → accept → Finish**, then restart. Full guide: **https://sqlsagedbeaver.lumasoft.org/docs**
 
 Also listed on the [**Eclipse Marketplace**](https://marketplace.eclipse.org/content/sqlsage-dbeaver).
 
@@ -35,10 +35,10 @@ The bundles are signed by **LUMA sp. z o.o.** (Certum). DBeaver only trust-signs
 - Questions & ideas: [**Discussions**](https://github.com/LUMASoftPL/sqlsage-dbeaver/discussions)
 - Bugs & feature requests: [GitHub Issues](https://github.com/LUMASoftPL/sqlsage-dbeaver/issues)
 - Email: support@lumasoft.pl
-- Docs & website: https://sqlsagedbeaver.lumasoft.pl
+- Docs & website: https://sqlsagedbeaver.lumasoft.org
 
 ---
 
-Looking for SQL Server / SSMS? See the sibling product **[SQL Sage for SSMS](https://github.com/LUMASoftPL/sqlsage)** (https://sqlsage.lumasoft.pl).
+Looking for SQL Server / SSMS? See the sibling product **[SQL Sage for SSMS](https://github.com/LUMASoftPL/sqlsage)** (https://sqlsage.lumasoft.org).
 
 SqlSage for DBeaver is a commercial product by **Luma (LUMA sp. z o.o.)**. This repository hosts releases, docs and issue tracking; the product source is not open-source. Not affiliated with, or endorsed by, DBeaver, Anthropic or OpenAI.
