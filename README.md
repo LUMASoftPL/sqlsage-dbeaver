@@ -23,7 +23,7 @@ Select **SqlSage for DBeaver → Next → accept → Finish**, then restart. Ful
 
 Also listed on the [**Eclipse Marketplace**](https://marketplace.eclipse.org/content/sqlsage-dbeaver).
 
-- DBeaver 26.x (Community or PRO) · Windows / macOS / Linux
+- DBeaver 26.x (Community or PRO) · Windows only (Linux and macOS are not supported)
 - Requires the `claude` or `codex` CLI installed and signed in (the panel shows sign-in status and helps you log in)
 - Every install starts with a **30-day free Pro trial** (all features, no card), then stays free forever on the Free tier
 - Pro from **$8/mo · $69/yr · $99 lifetime** (regional pricing in €/£/zł), billed via Paddle. Free for students and open-source maintainers on request.
